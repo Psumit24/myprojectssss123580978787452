@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="config.BaseClass"/>
+      <class name="com.dataproviderdemo.FirstDataProvider"/>
+      <class name="listnersashot.TestCasesDemo"/>
+      <class name="ashott.TestCasesDemo"/>
+      <class name="sumit.DemoMaven"/>
+      <class name="parameterations.CrossBrowsingTest"/>
+      <class name="sumit.Llll"/>
+      <class name="parameterations.Groupss1"/>
+      <class name="parameterations.SuccessPer1"/>
+      <class name="ashott.BaseClass"/>
+      <class name="parameterations.TestParametersDemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
